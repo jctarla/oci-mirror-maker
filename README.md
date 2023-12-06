@@ -42,6 +42,6 @@ docker run -e SOURCE_REGION="sa-saopaulo-1" \
  -e AUTH_CODE="xxxxxxxx" \
  -e SOURCE_STREAM_POOL="ocid1.streampool.oc1.sa-saopaulo-1.xxx" \
  -e TARGET_STREAM_POOL="ocid1.streampool.oc1.sa-vinhedo-1.xxx" \
- -e LOG_LEVEL=WARN gru.ocir.io/idcci5ks1puo/lab/mirror-maker 
+ -e LOG_LEVEL=WARN yourlocation/oci-mirror-maker:latest 
 ```
 
