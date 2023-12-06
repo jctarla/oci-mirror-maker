@@ -45,3 +45,9 @@ docker run -e SOURCE_REGION="sa-saopaulo-1" \
  -e LOG_LEVEL=WARN yourlocation/oci-mirror-maker:latest 
 ```
 
+
+
+## References
+ https://github.com/oracle-quickstart/oci-oss-mirror-maker
+ https://blogs.oracle.com/cloud-infrastructure/post/mirror-maker2-mm2-and-oracle-streaming-service-oss
+ 
